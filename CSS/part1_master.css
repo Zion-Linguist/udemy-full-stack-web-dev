@@ -1,0 +1,25 @@
+/* This is a comment */
+
+/* Comment */
+
+/* selected tag{
+  property: value
+} */
+
+h1{
+  color: blue;
+}
+
+li{
+  color: rgb(255,97,0);
+}
+
+/* google color picker - rgb codes */
+
+p{
+  color: #0895a8;
+}
+
+h4{
+  color: rgba(255,97,0, 0.5)
+}
